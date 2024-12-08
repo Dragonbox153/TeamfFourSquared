@@ -38,9 +38,21 @@
 			"Enabled": true
 		},
 		{
-			"Name": "GestureTrackerVR",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/378f739f054340899db2569090222fd3"
+			"Name": "Fab",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		},
+		{
+			"Name": "HoudiniEngine",
+			"Enabled": false
+		},
+		{
+			"Name": "SideFX_Labs",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
